@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+geospatial.db
+data/uploads/
+*.egg-info/
+.DS_Store
